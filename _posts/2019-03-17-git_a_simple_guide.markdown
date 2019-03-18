@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Git: A Simple Guide"
-date:       2019-03-18 01:23:25 +0000
+date:       2019-03-17 21:23:26 -0400
 permalink:  git_a_simple_guide
 ---
 
@@ -14,7 +14,7 @@ This guide is intended to be a quick reference and overview of how to navigate i
 In short, the Git and Github procedure is as follows...
 1. Fork (create a copy)
 2. Clone (copy of repository onto your local machine)
-3. Add ( )
+3. Add (stages a local file/folder to be ready to commit)
 4. Commit (with message)
 5. Push (upload the changes to the repository back to the remote server)
 6. Pull (used to update the local machine copy of the repository with the most up to date changes [important when working in a group and multiple people are making changes to a repository])
