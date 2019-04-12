@@ -1,12 +1,10 @@
 ---
 layout: post
 title:      "Will It Run?: CLI Project Experience"
-date:       2019-04-12 17:48:36 +0000
+date:       2019-04-12 13:48:37 -0400
 permalink:  will_it_run_cli_project_experience
 ---
 
-
-### A Blank Slate
 
 Working on the first project of the program was in one word...intimidating. It was daunting looking at an essentially blank file. The tutorials to help set up the ruby gem were very helpful. After hours of watching videos, walkthroughs and reading I had to start working. Being a bit of a visual person I took the time to pencil and pen my idea the ‘old-fashioned’ way into a chart with expectations and accompanying questions.
 
