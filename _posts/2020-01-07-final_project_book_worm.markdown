@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Final Project : Book Worm"
+title:      "Final Project : Book Worm "
 date:       2020-01-07 19:29:55 -0500
 permalink:  final_project_book_worm
 ---
