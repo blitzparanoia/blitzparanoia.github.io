@@ -1,11 +1,11 @@
 # Site settings
 author: Irene Saez
-title: 
+title: Code Discoveries
 header-img: img/home-bg.png
 email: bluemilk44@gmail.com
 copyright_name: Irene Saez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Things learned while coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  blitzparanoia
