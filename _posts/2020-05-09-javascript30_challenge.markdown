@@ -10,6 +10,7 @@ permalink:  javascript30_challenge
 The goal was to create a drum kit app that responded to the user pressing a corresponding key on their keyboard and playing the sound associated to that key.
 
 **Demo the app at this link**: [JS Drum Kit](https://jsdrumkitapp.herokuapp.com/index.html)
+
 **Git Hub Repo**: [GitHub Files](https://github.com/blitzparanoia/my-javascript30)
 
 ## Highlights
