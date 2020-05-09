@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript30 Challenge"
-date:       2020-05-09 18:40:19 +0000
+date:       2020-05-09 14:40:20 -0400
 permalink:  javascript30_challenge
 ---
 
@@ -10,6 +10,7 @@ permalink:  javascript30_challenge
 The goal was to create a drum kit app that responded to the user pressing a corresponding key on their keyboard and playing the sound associated to that key.
 
 **Demo the app at this link**: [JS Drum Kit](https://jsdrumkitapp.herokuapp.com/index.html)
+**Git Hub Repo**: [GitHub Files](https://github.com/blitzparanoia/my-javascript30)
 
 ## Highlights
 
