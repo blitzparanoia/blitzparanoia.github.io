@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript30 Challenge"
-date:       2020-05-10 18:11:19 +0000
+date:       2020-05-10 14:11:20 -0400
 permalink:  javascript30_challenge
 ---
 
