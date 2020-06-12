@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "JavaScript30 Challenge"
+title:      "Day 1- JavaScript Drum Kit"
 date:       2020-05-09 14:40:20 -0400
 permalink:  javascript30_challenge
 ---
 
-## Day 1- JavaScript Drum Kit
 
 The goal was to create a drum kit app that responded to the user pressing a corresponding key on their keyboard and playing the sound associated to that key.
 
