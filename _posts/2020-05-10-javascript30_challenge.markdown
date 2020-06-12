@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "Day 2- CSS + JS Clock"
+title:      "Day 2 - CSS + JS Clock"
 date:       2020-05-10 14:11:20 -0400
 permalink:  javascript30_challenge
 ---
 
-### JavaScript30 Challenge
 #### Github Link: [CSS JS Clock]( https://github.com/blitzparanoia/my-javascript30/tree/master/02-css-js-clock)
 
 ### Goal
