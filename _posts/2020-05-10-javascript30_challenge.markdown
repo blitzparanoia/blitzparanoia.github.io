@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Day 2 - CSS + JS Clock"
+title:      "Day 2 CSS + JS Clock"
 date:       2020-05-10 14:11:20 -0400
 permalink:  javascript30_challenge
 ---
