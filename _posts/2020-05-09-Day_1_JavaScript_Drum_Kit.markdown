@@ -2,7 +2,7 @@
 layout: post
 title:      "Day 1 JavaScript Drum Kit"
 date:       2020-05-09 14:40:20 -0400
-permalink:  javascript30_challenge
+permalink:  Day_1_JavaScript_Drum_Kit
 ---
 
 
